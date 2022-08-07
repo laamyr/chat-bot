@@ -1,4 +1,13 @@
 function getBotResponse(input) {
+    
+     //laamyr
+    if (input == "sy") {
+        return "SyOmar marhbee";
+    } else if (input == "fuck") {
+        return " fuck facultes de sciences et technologies sbz";
+    } else if (input == "aasfour") {
+        return "iza9za9";
+    }
 
     // Simple responses
     if (input == "hello") {
