@@ -71,7 +71,7 @@ function getResponse() {
 
     setTimeout(() => {
         getHardResponse(userText);
-    }, 2000)
+    }, 1000)
 
 }
 
