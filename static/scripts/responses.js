@@ -1,8 +1,8 @@
 function getBotResponse(input) {
     
      //laamyr
-    if (input == "sy") {
-        return "SyOmar marhbee";
+    if (input == "ahla") {
+        return "SyOmar marhbee bik";
     } else if (input == "fuck") {
         return " fuck facultes de sciences et technologies sbz";
     } else if (input == "aasfour") {
